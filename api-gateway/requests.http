@@ -1,0 +1,4 @@
+POST http://localhost:3000/calculator/addition
+
+Content-Type: raw
+[1, 2, 3, 4]
